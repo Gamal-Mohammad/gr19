@@ -5,4 +5,6 @@
 while [ true ]
 do
 	echo "welcome to GitHub"
+	date
+	pwd
 done
